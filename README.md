@@ -6,7 +6,7 @@
 
 ### Preview
 
-#### [在线预览 Live Demo →](want-u.github.io)
+#### [在线预览 Live Demo →](https://want-u.github.io/)
 
 ![](screenshot/jekyll-theme-h2o-realhome.jpg)
 
